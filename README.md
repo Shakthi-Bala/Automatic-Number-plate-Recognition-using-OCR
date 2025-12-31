@@ -1,4 +1,4 @@
-# Optical Character Recognition (OCR) using Deep Learning 🔍📄
+# Optical Character Recognition (OCR) using Deep Learning 
 
 This project implements an **Optical Character Recognition (OCR) pipeline** using **Python, OpenCV, and Deep Learning (Keras/TensorFlow)**.  
 The notebook focuses on **image preprocessing, feature extraction, and character recognition**, with a specific emphasis on **license plate detection and recognition**.
@@ -47,7 +47,7 @@ unzip data.zip
 ```
 Ensure the dataset path inside the notebook matches your local directory structure.
 
-## 🚀 How to Run
+## How to Run
 1. Clone the repository:
 ```bash
 git clone <YOUR_REPOSITORY_URL>
@@ -66,7 +66,7 @@ jupyter notebook
 Optical character recognition.ipynb
 ```
 
-# Techniques & Tools Used 🧠🔍
+# Techniques & Tools Used 🧠
 
 This project leverages a combination of **Computer Vision** and **Deep Learning** techniques for optical character recognition.
 
